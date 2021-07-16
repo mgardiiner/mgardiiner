@@ -4,12 +4,12 @@
 
 - 🤔 &nbsp; Recently graduated from York University for Computer Science
 - 💼 &nbsp; Continuously expanding my skills through completing a wide variety of courses
-- 🌱 &nbsp; Currently seeking employment in software developement 
+- 🌱 &nbsp; Currently employed by Trend Hunter 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | SQL | C | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular
+- 💻 &nbsp; Java | SQL | C | Python | PHP 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | Node.js | Angular
 - 🛢 &nbsp; Windows | Unix 
 - 🔧 &nbsp; AWS | Git | Visual Studio | Eiffel | Android Studio | Eclipse
 
