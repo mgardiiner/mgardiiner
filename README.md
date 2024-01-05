@@ -13,8 +13,6 @@
 - 🛢 &nbsp; Windows | Unix 
 - 🔧 &nbsp; AWS | Git | Visual Studio | Eiffel | Android Studio | Eclipse | Google Analytics 
 
-<br/>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
