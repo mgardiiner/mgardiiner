@@ -2,16 +2,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Recently graduated from York University for Computer Science
-- 💼 &nbsp; Continuously expanding my skills through completing a wide variety of courses
-- 🌱 &nbsp; Currently employed by Trend Hunter 
+- 💼 &nbsp; Tech enthusiast with a passion for continuous learning
+- 🚀 &nbsp; Actively growing my skills through diverse projects
+- 🌐 &nbsp; Currently contributing to innovation at Trend Hunter
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | SQL | C | Python | PHP 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | Node.js | Angular
+- 💻 &nbsp; PHP | JavaScript | HTML | CSS | Java | SQL | C | Python | AI
+- 🌐 &nbsp; Bootstrap | jQuery | Node.js | Angular | React | Svelte
 - 🛢 &nbsp; Windows | Unix 
-- 🔧 &nbsp; AWS | Git | Visual Studio | Eiffel | Android Studio | Eclipse
+- 🔧 &nbsp; AWS | Git | Visual Studio | Eiffel | Android Studio | Eclipse | Google Analytics 
 
 <br/>
 
